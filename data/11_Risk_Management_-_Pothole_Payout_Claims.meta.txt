@@ -1,0 +1,10 @@
+# Risk_Management_-_Pothole_Payout_Claims.meta.txt
+
+## Source:
+https://data.edmonton.ca/Financial/Risk-Management-Pothole-Payout-Claims/t2dn-x2z2
+
+
+## Other Info:
+
+https://www.edmonton.ca/transportation/report_requests/pothole-damage-claims.aspx
+
